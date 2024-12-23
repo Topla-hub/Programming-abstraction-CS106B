@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topla\\Desktop\\Assignment3-vs2022\\2 - Sierpinski\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13909746-13B1-4EFD-9A19-C095610F6D6C}|Sierpinski\\Sierpinski.vcxproj|C:\\Users\\topla\\Desktop\\Assignment3-vs2022\\2 - Sierpinski\\Sierpinski\\Sierpinski.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13909746-13B1-4EFD-9A19-C095610F6D6C}|Sierpinski\\Sierpinski.vcxproj|solutionrelative:Sierpinski\\Sierpinski.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sierpinski.cpp",
+              "DocumentMoniker": "C:\\Users\\topla\\Desktop\\Assignment3-vs2022\\2 - Sierpinski\\Sierpinski\\Sierpinski.cpp",
+              "RelativeDocumentMoniker": "Sierpinski\\Sierpinski.cpp",
+              "ToolTip": "C:\\Users\\topla\\Desktop\\Assignment3-vs2022\\2 - Sierpinski\\Sierpinski\\Sierpinski.cpp",
+              "RelativeToolTip": "Sierpinski\\Sierpinski.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T21:59:32.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

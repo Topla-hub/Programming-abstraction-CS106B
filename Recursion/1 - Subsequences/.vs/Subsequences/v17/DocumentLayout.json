@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topla\\Desktop\\Uni\\Assignment3-vs2022\\1 - Subsequences\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D72B7F4-DED6-49BD-97AA-BD5F0E929099}|Subsequences\\Subsequences.vcxproj|C:\\Users\\topla\\Desktop\\Uni\\Assignment3-vs2022\\1 - Subsequences\\Subsequences\\Subsequences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D72B7F4-DED6-49BD-97AA-BD5F0E929099}|Subsequences\\Subsequences.vcxproj|solutionrelative:Subsequences\\Subsequences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subsequences.cpp",
+              "DocumentMoniker": "C:\\Users\\topla\\Desktop\\Uni\\Assignment3-vs2022\\1 - Subsequences\\Subsequences\\Subsequences.cpp",
+              "RelativeDocumentMoniker": "Subsequences\\Subsequences.cpp",
+              "ToolTip": "C:\\Users\\topla\\Desktop\\Uni\\Assignment3-vs2022\\1 - Subsequences\\Subsequences\\Subsequences.cpp",
+              "RelativeToolTip": "Subsequences\\Subsequences.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T21:30:18.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
