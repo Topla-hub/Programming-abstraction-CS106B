@@ -1,0 +1,5 @@
+﻿  HuffmanEncoding.cpp
+  HuffmanEncodingTest.cpp
+C:\Users\topla\Desktop\Assignment6-vs2022\Huffman Encoding\HuffmanEncodingTest.cpp(226,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Huffman Encoding.vcxproj -> C:\Users\topla\Desktop\Assignment6-vs2022\x64\Debug\Huffman Encoding.exe
