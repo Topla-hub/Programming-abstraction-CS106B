@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topla\\Desktop\\Uni\\Assignment2-vs2022\\Random Writer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCE81BE-A195-4E65-BD41-668E1EAF86DC}|Random Writer\\Random Writer.vcxproj|C:\\Users\\topla\\Desktop\\Uni\\Assignment2-vs2022\\Random Writer\\Random Writer\\RandomWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DCE81BE-A195-4E65-BD41-668E1EAF86DC}|Random Writer\\Random Writer.vcxproj|solutionrelative:Random Writer\\RandomWriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomWriter.cpp",
+              "DocumentMoniker": "C:\\Users\\topla\\Desktop\\Uni\\Assignment2-vs2022\\Random Writer\\Random Writer\\RandomWriter.cpp",
+              "RelativeDocumentMoniker": "Random Writer\\RandomWriter.cpp",
+              "ToolTip": "C:\\Users\\topla\\Desktop\\Uni\\Assignment2-vs2022\\Random Writer\\Random Writer\\RandomWriter.cpp",
+              "RelativeToolTip": "Random Writer\\RandomWriter.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwCEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T21:01:19.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
