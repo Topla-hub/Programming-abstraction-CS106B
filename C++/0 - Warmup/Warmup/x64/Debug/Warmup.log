@@ -1,0 +1,6 @@
+﻿  Warmup.cpp
+C:\Users\topla\Desktop\Assignment1-vs2022\0 - Warmup\Warmup\Warmup.cpp(50,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+StanfordCPPLib-vs2022.lib(simpio.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(simpio.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(strlib.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(strlib.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(error.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(error.obj)' or at ''; linking object as if no debug info
+  Warmup.vcxproj -> C:\Users\topla\Desktop\Assignment1-vs2022\0 - Warmup\x64\Debug\Warmup.exe
