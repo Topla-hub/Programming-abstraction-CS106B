@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topla\\Desktop\\Assignment1-vs2022\\2 - Combinations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F88941E-19D6-4DF1-B3D2-AB8F03E9117A}|Combinations\\Combinations.vcxproj|C:\\Users\\topla\\Desktop\\Assignment1-vs2022\\2 - Combinations\\Combinations\\Combinations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F88941E-19D6-4DF1-B3D2-AB8F03E9117A}|Combinations\\Combinations.vcxproj|solutionrelative:Combinations\\Combinations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Combinations.cpp",
+              "DocumentMoniker": "C:\\Users\\topla\\Desktop\\Assignment1-vs2022\\2 - Combinations\\Combinations\\Combinations.cpp",
+              "RelativeDocumentMoniker": "Combinations\\Combinations.cpp",
+              "ToolTip": "C:\\Users\\topla\\Desktop\\Assignment1-vs2022\\2 - Combinations\\Combinations\\Combinations.cpp",
+              "RelativeToolTip": "Combinations\\Combinations.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T21:35:50.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
