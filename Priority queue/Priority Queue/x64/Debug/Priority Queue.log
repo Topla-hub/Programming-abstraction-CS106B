@@ -1,0 +1,164 @@
+﻿  pqueue-heap.cpp
+  pqueue-test.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6537,59): warning C4244: 'argument': conversion from '_Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6537,59):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\topla\Desktop\Assignment5-vs2022\Priority Queue\pqueue-test.cpp(1103,4):
+  	see reference to function template instantiation 'void testPriorityQueue<VectorPriorityQueue>(void)' being compiled
+  	C:\Users\topla\Desktop\Assignment5-vs2022\Priority Queue\pqueue-test.cpp(949,2):
+  	see reference to function template instantiation 'void sortDescendingTests<VectorPriorityQueue>(void)' being compiled
+  	C:\Users\topla\Desktop\Assignment5-vs2022\Priority Queue\pqueue-test.cpp(385,4):
+  	see reference to function template instantiation 'void std::sort<Vector<std::string>::iterator,std::greater<std::string>>(const _RanIt,const _RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Pr=std::greater<std::string>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7986,5):
+  	see reference to function template instantiation 'void std::_Sort_unchecked<_RanIt,_Fn>(_RanIt,_RanIt,__int64,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Fn=std::greater<std::string>,
+              _Pr=std::greater<std::string>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7961,13):
+  	see reference to function template instantiation 'void std::_Make_heap_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Pr=std::greater<std::string>
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(5306,41): warning C4244: 'argument': conversion from '_Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(5306,41):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\topla\Desktop\Assignment5-vs2022\Priority Queue\pqueue-test.cpp(950,2):
+  	see reference to function template instantiation 'void sortRandomTests<VectorPriorityQueue>(void)' being compiled
+  	C:\Users\topla\Desktop\Assignment5-vs2022\Priority Queue\pqueue-test.cpp(486,4):
+  	see reference to function template instantiation 'void std::random_shuffle<Vector<std::string>::iterator>(_RanIt,_RanIt)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(5400,10):
+  	see reference to function template instantiation 'void std::shuffle<_RanIt,std::_Rand_urng_from_func&>(_RanIt,_RanIt,_Urng)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Urng=std::_Rand_urng_from_func &
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(5315,5):
+  	see reference to function template instantiation 'void std::_Random_shuffle1<_RanIt,std::_Rng_from_urng<__int64,_Urng0>>(_RanIt,_RanIt,_RngFn &)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _RngFn=std::_Rng_from_urng<__int64,_Urng0>
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6384,13): warning C4244: 'argument': conversion from '_Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6384,13):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7961,13):
+  	see reference to function template instantiation 'void std::_Make_heap_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Pr=std::greater<std::string>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6538,14):
+  	see reference to function template instantiation 'void std::_Pop_heap_hole_by_index<_RanIt,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,_Pr>(_RanIt,__int64,__int64,_Ty &&,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Pr=std::greater<std::string>,
+              _Ty=std::basic_string<char,std::char_traits<char>,std::allocator<char>>
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6387,20): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6387,50): warning C4244: 'argument': conversion from '_Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6392,20): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6392,59): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7871,42): warning C4244: 'argument': conversion from 'const _Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7871,42):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7967,21):
+  	see reference to function template instantiation 'std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Pr=std::greater<std::string>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7884,5):
+  	see reference to function template instantiation 'void std::_Guess_median_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Pr=std::greater<std::string>
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7871,58): warning C4244: 'argument': conversion from 'const _Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7872,32): warning C4244: 'argument': conversion from 'const _Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7872,52): warning C4244: 'argument': conversion from 'const _Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7873,33): warning C4244: 'argument': conversion from 'const _Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7873,52): warning C4244: 'argument': conversion from 'const _Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7874,34): warning C4244: 'argument': conversion from 'const _Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(7874,55): warning C4244: 'argument': conversion from 'const _Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6270,26): warning C4244: 'argument': conversion from '_Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6270,26):
+  the template instantiation context (the oldest one first) is
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6538,14):
+  	see reference to function template instantiation 'void std::_Pop_heap_hole_by_index<_RanIt,std::basic_string<char,std::char_traits<char>,std::allocator<char>>,_Pr>(_RanIt,__int64,__int64,_Ty &&,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Pr=std::greater<std::string>,
+              _Ty=std::basic_string<char,std::char_traits<char>,std::allocator<char>>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6396,10):
+  	see reference to function template instantiation 'void std::_Push_heap_by_index<_RanIt,_Ty,_Pr>(_RanIt,__int64,__int64,_Ty &&,_Pr)' being compiled
+          with
+          [
+              _RanIt=Vector<std::string>::iterator,
+              _Ty=std::basic_string<char,std::char_traits<char>,std::allocator<char>>,
+              _Pr=std::greater<std::string>
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6272,20): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6272,50): warning C4244: 'argument': conversion from '_Diff' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\algorithm(6276,16): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+  (compiling source file 'pqueue-test.cpp')
+  
+  Generating Code...
+  Priority Queue.vcxproj -> C:\Users\topla\Desktop\Assignment5-vs2022\x64\Debug\Priority Queue.exe

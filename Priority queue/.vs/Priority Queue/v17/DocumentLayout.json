@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\abstactions\\Assignment5-vs2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|solutionrelative:Priority Queue\\pqueue-vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|solutionrelative:Priority Queue\\pqueue-linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|solutionrelative:Priority Queue\\pqueue-heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-extra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|solutionrelative:Priority Queue\\pqueue-extra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-doublylinkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEB22BDC-0EB6-46BB-9AC9-0CE7EF72E301}|Priority Queue\\Priority Queue.vcxproj|solutionrelative:Priority Queue\\pqueue-doublylinkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pqueue-vector.cpp",
+              "DocumentMoniker": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-vector.cpp",
+              "RelativeDocumentMoniker": "Priority Queue\\pqueue-vector.cpp",
+              "ToolTip": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-vector.cpp",
+              "RelativeToolTip": "Priority Queue\\pqueue-vector.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:18:49.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pqueue-linkedlist.cpp",
+              "DocumentMoniker": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-linkedlist.cpp",
+              "RelativeDocumentMoniker": "Priority Queue\\pqueue-linkedlist.cpp",
+              "ToolTip": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-linkedlist.cpp",
+              "RelativeToolTip": "Priority Queue\\pqueue-linkedlist.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:18:41.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pqueue-heap.cpp",
+              "DocumentMoniker": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-heap.cpp",
+              "RelativeDocumentMoniker": "Priority Queue\\pqueue-heap.cpp",
+              "ToolTip": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-heap.cpp",
+              "RelativeToolTip": "Priority Queue\\pqueue-heap.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:18:35.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pqueue-extra.cpp",
+              "DocumentMoniker": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-extra.cpp",
+              "RelativeDocumentMoniker": "Priority Queue\\pqueue-extra.cpp",
+              "ToolTip": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-extra.cpp",
+              "RelativeToolTip": "Priority Queue\\pqueue-extra.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:18:30.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pqueue-doublylinkedlist.cpp",
+              "DocumentMoniker": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-doublylinkedlist.cpp",
+              "RelativeDocumentMoniker": "Priority Queue\\pqueue-doublylinkedlist.cpp",
+              "ToolTip": "D:\\abstactions\\Assignment5-vs2022\\Priority Queue\\pqueue-doublylinkedlist.cpp",
+              "RelativeToolTip": "Priority Queue\\pqueue-doublylinkedlist.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T13:18:20.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
