@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topla\\Desktop\\Uni\\Assignment7-vs2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19FE1C97-7687-4349-99E3-3B6C1D269061}|Trailblazer\\Trailblazer.vcxproj|C:\\Users\\topla\\Desktop\\Uni\\Assignment7-vs2022\\Trailblazer\\Trailblazer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19FE1C97-7687-4349-99E3-3B6C1D269061}|Trailblazer\\Trailblazer.vcxproj|solutionrelative:Trailblazer\\Trailblazer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FE1C97-7687-4349-99E3-3B6C1D269061}|Trailblazer\\Trailblazer.vcxproj|C:\\Users\\topla\\Desktop\\Uni\\Assignment7-vs2022\\Trailblazer\\Trailblazer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19FE1C97-7687-4349-99E3-3B6C1D269061}|Trailblazer\\Trailblazer.vcxproj|solutionrelative:Trailblazer\\Trailblazer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trailblazer.h",
+              "DocumentMoniker": "C:\\Users\\topla\\Desktop\\Uni\\Assignment7-vs2022\\Trailblazer\\Trailblazer.h",
+              "RelativeDocumentMoniker": "Trailblazer\\Trailblazer.h",
+              "ToolTip": "C:\\Users\\topla\\Desktop\\Assignment7-vs2022\\Trailblazer\\Trailblazer.h*",
+              "RelativeToolTip": "..\\..\\Assignment7-vs2022\\Trailblazer\\Trailblazer.h*",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-17T08:03:32.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trailblazer.cpp",
+              "DocumentMoniker": "C:\\Users\\topla\\Desktop\\Uni\\Assignment7-vs2022\\Trailblazer\\Trailblazer.cpp",
+              "RelativeDocumentMoniker": "Trailblazer\\Trailblazer.cpp",
+              "ToolTip": "C:\\Users\\topla\\Desktop\\Uni\\Assignment7-vs2022\\Trailblazer\\Trailblazer.cpp",
+              "RelativeToolTip": "Trailblazer\\Trailblazer.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-17T08:03:28.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
